@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "J.D. Patrick",
+    "section": "",
+    "text": "I torture numbers and students for a living."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "J.D. Patrick",
+    "section": "Education",
+    "text": "Education\nUniversity of XYZ, City | Location | Sept 20XX - June 20XX"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "J.D. Patrick",
+    "section": "Experience",
+    "text": "Experience\nWorkplace | Job title | April 20XX - present"
+  }
+]
